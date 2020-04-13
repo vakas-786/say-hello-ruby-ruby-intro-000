@@ -1,2 +1,2 @@
-def say_hello(Gabreila)
+def say_hello(name)
 end
